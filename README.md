@@ -10,3 +10,6 @@ Para o desenvolvimento do projeto será utilizado a metotologia de GitFlow para 
 - Spring Data JPA com MySQL
 - Angular 8
 
+## Modelo do Banco de Dados
+
+![DB-Schema](https://user-images.githubusercontent.com/43246064/135918585-5301262b-cf27-4fef-a648-46cc4f052d41.png)
