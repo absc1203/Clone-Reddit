@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import br.com.cloneReddit.model.VerificationToken;
 
 @Repository
-public interface VarificationTokenRepository extends JpaRepository<VerificationToken, Long> {
+public interface VerificationTokenRepository extends JpaRepository<VerificationToken, Long> {
 
 	Optional<VerificationToken> findByToken(String token);
 
